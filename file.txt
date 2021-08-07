@@ -1,4 +1,6 @@
 editted by DEV Branch
 fun master(){
     Hello master
+func dev{
+    hello DEv
 }
