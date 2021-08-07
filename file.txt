@@ -1,1 +1,4 @@
 editted by DEV Branch
+fun master(){
+    Hello master
+}
